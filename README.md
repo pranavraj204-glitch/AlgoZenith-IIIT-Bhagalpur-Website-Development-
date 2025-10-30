@@ -34,77 +34,7 @@ A modern, interactive portfolio website built with pure HTML, CSS, and JavaScrip
 └── README.md           # This file
 ```
 
-## Local Development
 
-To run this website locally:
-
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
-   ```
-
-2. Open `index.html` in your browser, or use a simple HTTP server:
-   ```bash
-   # Using Python 3
-   python -m http.server 5000
-   
-   # Using Node.js (if you have http-server installed)
-   npx http-server -p 5000
-   ```
-
-3. Open your browser and navigate to `http://localhost:5000`
-
-## Deployment
-
-### Deploy to Vercel
-
-1. **Create a GitHub Repository**
-   - Go to [GitHub](https://github.com) and create a new repository
-   - Initialize it without README (since you already have one)
-
-2. **Push Your Code to GitHub**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: Competition portfolio website"
-   git branch -M main
-   git remote add origin <your-github-repo-url>
-   git push -u origin main
-   ```
-
-3. **Deploy to Vercel**
-   - Go to [Vercel](https://vercel.com)
-   - Sign up or log in (you can use your GitHub account)
-   - Click "New Project"
-   - Import your GitHub repository
-   - Vercel will automatically detect it's a static site
-   - Click "Deploy"
-   - Your site will be live in seconds!
-
-4. **Get Your Live Link**
-   - After deployment, Vercel will provide a URL like: `https://your-project.vercel.app`
-   - Use this link for your competition submission
-
-### Deploy to Netlify
-
-1. **Create a GitHub Repository** (same as Vercel step 1-2 above)
-
-2. **Deploy to Netlify**
-   - Go to [Netlify](https://www.netlify.com)
-   - Sign up or log in
-   - Click "Add new site" → "Import an existing project"
-   - Choose "Deploy with GitHub"
-   - Select your repository
-   - Build settings:
-     - Build command: (leave empty)
-     - Publish directory: (leave empty or put `.`)
-   - Click "Deploy site"
-
-3. **Get Your Live Link**
-   - After deployment, Netlify will provide a URL like: `https://your-project.netlify.app`
-   - You can customize this URL in site settings
-   - Use this link for your competition submission
 
 ## Customization
 
