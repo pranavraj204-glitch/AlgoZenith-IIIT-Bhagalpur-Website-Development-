@@ -77,5 +77,9 @@ This project is open source and available for use in competitions and personal p
 - Icons: [Font Awesome](https://fontawesome.com/)
 - Fonts: [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
 
+## IMPORTANT
+NOTE - I HAVE TAKE SOME HELP/Reference FROM AI LIKE CHAT GPT, GEMINI etc.
+
+
 
 
