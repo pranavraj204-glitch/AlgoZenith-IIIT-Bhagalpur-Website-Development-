@@ -26,38 +26,11 @@ A modern, interactive portfolio website built with pure HTML, CSS, and JavaScrip
 ## Project Structure
 
 ```
-.
 ├── index.html          # Main HTML file
 ├── styles.css          # All CSS styles and animations
 ├── script.js           # JavaScript functionality
-├── .gitignore          # Git ignore file
 └── README.md           # This file
 ```
-
-
-
-## Customization
-
-To personalize this portfolio:
-
-1. **Update Personal Information** - Edit `index.html`:
-   - Change name from "Alex Johnson" to your name
-   - Update email, phone, location in contact section
-   - Modify project descriptions and technologies
-
-2. **Change Colors** - Edit `styles.css` CSS variables:
-   ```css
-   :root {
-       --primary-color: #6366f1;
-       --secondary-color: #8b5cf6;
-       --accent-color: #ec4899;
-       /* Modify these to match your brand */
-   }
-   ```
-
-3. **Add Your Projects** - Replace placeholder projects with your actual work
-4. **Update Skills** - Modify the skills percentages and add/remove technologies
-5. **Add Your Social Links** - Update the social media links in the contact section
 
 ## Competition Submission Checklist
 
@@ -66,7 +39,7 @@ To personalize this portfolio:
 - [ ] Tested on multiple devices (desktop, tablet, mobile)
 - [ ] Verified all animations work smoothly
 - [ ] Pushed code to GitHub repository
-- [ ] Deployed to Vercel or Netlify
+- [ ] Deployed to Vercel 
 - [ ] Tested the live hosted link
 - [ ] GitHub repository is public
 - [ ] README.md is updated with your information
@@ -74,8 +47,8 @@ To personalize this portfolio:
 ## Submission Links
 
 When submitting for the competition, provide:
-1. **GitHub Repository**: `https://github.com/your-username/your-repo-name`
-2. **Live Website**: `https://your-project.vercel.app` or `https://your-project.netlify.app`
+
+ **Live Website**: "https://algo-zenith-iiit-bhagalpur-website-gray.vercel.app/"
 
 ## Browser Support
 
@@ -104,6 +77,5 @@ This project is open source and available for use in competitions and personal p
 - Icons: [Font Awesome](https://fontawesome.com/)
 - Fonts: [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
 
----
 
-**Good luck with your competition submission!** 🚀
+
